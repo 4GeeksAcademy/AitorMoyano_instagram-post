@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: space-between;
+}
+.post {
+    margin: 100px;
+    background-color:  white;
+    width: 612px;
+}
+.post-header{
+    display: flex;
+    height: 60px;
+}
+
+.punto-icon{
+    height: 40px;
+    width: 40px;
+    margin-left: 460px;
+    margin-top: 10px;
+}
+.nombre{
+     font-size: 40%;
+     align-items: center;
+}
+.icon{
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+}
+.post-body{
+    margin-left: 5px;
+}
+.derecha{
+    float: right;
+    height: 50px;
+    width: 50px;
+}
+.text-body{
+    margin-left: 5px;
+}
